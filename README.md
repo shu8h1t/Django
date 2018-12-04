@@ -1,2 +1,2 @@
 # Django
-Poll_Appication
+Poll_Application
